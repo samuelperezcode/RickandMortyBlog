@@ -24,4 +24,4 @@ const router = async () => {
 
 }
 
-export default router
+export default router 
